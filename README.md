@@ -98,11 +98,7 @@ Aplicação desenvolvida para apresentar meus projetos, experiências profission
 ## 🎯 Foco atual de estudos
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,mysql,git,github,idea&theme=dark" alt="Tecnologias em estudo">
-</p>
-
-<p align="center">
-<strong>Java • Programação Orientada a Objetos • SQL • Git e GitHub</strong>
+<img src="https://skillicons.dev/icons?i=java,spring,aws,mysql,git,github,idea&theme=dark" alt="Tecnologias em estudo">
 </p>
 
 ---
