@@ -127,7 +127,7 @@ Aplicação desenvolvida para apresentar meus projetos, experiências profission
 <td>Instituto Federal de São Paulo — concluído em 2025</td>
 </tr>
 <tr>
-<td>Analista de Suporte Técnico Corporativo</td>
+<td>Suporte Técnico Corporativo</td>
 <td>Secretaria da Educação do Estado de São Paulo</td>
 </tr>
 <tr>
