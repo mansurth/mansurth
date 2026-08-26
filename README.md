@@ -16,7 +16,7 @@
 
 Sou **Técnico em Informática para a Internet pelo IFSP** e estudante de **Análise e Desenvolvimento de Sistemas na UNICSUL**.
 
-Atuo como **Analista de Suporte Técnico Corporativo na Secretaria da Educação do Estado de São Paulo**. Atualmente, direciono meus estudos para **Java, Programação Orientada a Objetos, SQL e fundamentos de Back-End**.
+Atuo como **Suporte Técnico Corporativo na Secretaria da Educação do Estado de São Paulo**. Atualmente, direciono meus estudos para **Java, Programação Orientada a Objetos, SQL e fundamentos de Back-End**.
 
 Também desenvolvo projetos com tecnologias web, Python, automação, integração de APIs e Raspberry Pi.
 
