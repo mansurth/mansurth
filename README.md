@@ -76,17 +76,17 @@ Assistente interativo desenvolvido no FabLab, integrando Python, Raspberry Pi e 
 </td>
 <td width="50%" align="center" valign="top">
 <br>
-<a href="https://github.com/mansurth/portifolio"><strong>💻 Portfólio profissional</strong></a>
+<a href="https://github.com/mansurth/CADASTROusuario"><strong>👤 Sistema de cadastro</strong></a>
 <br>
-<sub><strong>Apresentação profissional</strong></sub>
+<sub><strong>Lista de Contatos Digital</strong></sub>
 <br><br>
-Aplicação desenvolvida para apresentar meus projetos, experiências profissionais, conhecimentos e evolução técnica.
+Aplicativo para cadastro e gerenciamento de contatos, com persistência de dados em JSON e navegação dinâmica entre telas.
 <br><br>
-<code>Next.js</code>
-<code>TypeScript</code>
-<code>Tailwind CSS</code>
+<code>Java</code>
+<code>Android SDK</code>
+<code>JSON</code>
 <br><br>
-<a href="https://github.com/mansurth/portifolio"><strong>Acessar repositório →</strong></a>
+<a href="https://github.com/mansurth/CADASTROusuario"><strong>Acessar repositório →</strong></a>
 <br><br>
 </td>
 </tr>
