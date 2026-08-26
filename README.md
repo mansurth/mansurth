@@ -18,7 +18,7 @@ Sou **Técnico em Informática para a Internet pelo IFSP** e estudante de **Aná
 
 Atuo como **Suporte Técnico Corporativo na Secretaria da Educação do Estado de São Paulo**. Atualmente, direciono meus estudos para **Java, Programação Orientada a Objetos, SQL e fundamentos de Back-End**.
 
-Também desenvolvo projetos com tecnologias web, Python, automação, integração de APIs e Raspberry Pi.
+Também desenvolvo projetos com tecnologias web, Python, automação e integração de APIs.
 
 ---
 
