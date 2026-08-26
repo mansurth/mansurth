@@ -54,7 +54,7 @@ Aplicação com lógica de compras online e notas fiscais para uma loja de roupa
 <code>POO</code>
 <code>Arrays</code>
 <br><br>
-<a href="https://github.com/mansurth/747-garage"><strong>Acessar repositório →</strong></a>
+<a href="https://github.com/mansurth/compra_roupas"><strong>Acessar repositório →</strong></a>
 <br><br>
 </td>
 </tr>
