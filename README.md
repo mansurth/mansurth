@@ -48,7 +48,7 @@ Rede social voltada ao ambiente fitness, com gerenciamento de usuários, publica
 <br>
 <sub><strong>Simulação de loja online</strong></sub>
 <br><br>
-Aplicação com lógica de compras online e notas fiscais para uma loja de roupas.
+Aplicação estruturada em POO que simula o fluxo completo de um e-commerce de moda, desde a seleção de itens até a geração automatizada de notas fiscais.
 <br><br>
 <code>Java</code>
 <code>POO</code>
