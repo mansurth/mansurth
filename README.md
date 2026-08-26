@@ -1,7 +1,7 @@
 <h1 align="center">Arthur Mansur Barros</h1>
 
 <p align="center">
-<strong>Estudante de ADS • Em formação para Desenvolvimento Back-End com Java</strong>
+<strong>Técnico em Informatica para Internet • Em formação para Desenvolvimento Back-End com Java</strong>
 </p>
 
 <p align="center"><a href="https://www.linkedin.com/in/arthur-mansur-05a617305/"><img src="https://img.shields.io/badge/LinkedIn-Arthur%20Mansur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Arthur Mansur"></a>&nbsp;&nbsp;<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=barrosarthur312@gmail.com&amp;su=Contato%20pelo%20GitHub"><img src="https://img.shields.io/badge/Email-Escrever-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail para Arthur Mansur"></a>&nbsp;&nbsp;<a href="https://wa.me/5511948334209?text=Ol%C3%A1%2C%20Arthur%21%20Encontrei%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar%20com%20voc%C3%AA."><img src="https://img.shields.io/badge/WhatsApp-Falar%20comigo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Falar com Arthur Mansur pelo WhatsApp"></a></p>
