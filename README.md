@@ -44,16 +44,15 @@ Rede social voltada ao ambiente fitness, com gerenciamento de usuários, publica
 </td>
 <td width="50%" align="center" valign="top">
 <br>
-<a href="https://github.com/mansurth/747-garage"><strong>🚘 747 Garage</strong></a>
+<a href="https://github.com/mansurth/compra_roupas"><strong> Sistema de compra de roupas 👕</strong></a>
 <br>
-<sub><strong>Plataforma automotiva</strong></sub>
+<sub><strong>Simulação de loja online</strong></sub>
 <br><br>
-Aplicação com catálogo de veículos, peças e serviços, utilizando rotas, validação de informações e persistência em banco de dados.
+Aplicação com lógica de compras online e notas fiscais para uma loja de roupas.
 <br><br>
-<code>Next.js</code>
-<code>TypeScript</code>
-<code>Prisma</code>
-<code>SQLite</code>
+<code>Java</code>
+<code>POO</code>
+<code>Arrays</code>
 <br><br>
 <a href="https://github.com/mansurth/747-garage"><strong>Acessar repositório →</strong></a>
 <br><br>
