@@ -97,7 +97,7 @@ Aplicativo para cadastro e gerenciamento de contatos, com persistência de dados
 ## 🎯 Foco atual de estudos
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,aws,mysql,git,github,idea&theme=dark" alt="Tecnologias em estudo">
+<img src="https://skillicons.dev/icons?i=java,spring,aws,postgresql,git,github,idea&theme=dark" alt="Tecnologias em estudo">
 </p>
 
 ---
