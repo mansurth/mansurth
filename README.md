@@ -102,14 +102,6 @@ Aplicativo para cadastro e gerenciamento de contatos, com persistência de dados
 
 ---
 
-## 🧰 Tecnologias e ferramentas utilizadas em projetos
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,nextjs,nodejs,python,mysql,postman,raspberrypi&theme=dark" alt="Tecnologias e ferramentas utilizadas em projetos">
-</p>
-
----
-
 ## 🎓 Formação e experiência
 
 <table>
