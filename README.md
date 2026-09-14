@@ -118,7 +118,7 @@ Aplicativo para cadastro e gerenciamento de contatos, com persistência de dados
 <td>Instituto Federal de São Paulo — concluído em 2025</td>
 </tr>
 <tr>
-<td>Suporte Técnico Corporativo</td>
+<td>Suporte Técnico</td>
 <td>Secretaria da Educação do Estado de São Paulo</td>
 </tr>
 <tr>
