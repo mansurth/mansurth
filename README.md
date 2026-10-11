@@ -93,7 +93,15 @@ Aplicativo para cadastro e gerenciamento de contatos, com persistência de dados
 ## 🎯 Foco atual de estudos
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,postgresql,mysql,git,github" alt="Tecnologias em estudo">
+  <img src="https://skillicons.dev/icons?i=aws,postgres,mysql,git,github" />
+</p>
+
+---
+
+## 🧩 Tecnologias com experiência prática
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,html,css" />
 </p>
 
 ---
