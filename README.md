@@ -1,23 +1,27 @@
 <h1 align="center">Arthur Mansur Barros</h1>
 
 <p align="center">
-<strong>Técnico em Informatica para Internet • Em formação para Banco de Dados & Cloud</strong>
+<strong>Técnico em Informática para Internet • Foco em Banco de Dados & Cloud</strong>
 </p>
 
 <p align="center">
+
 <a href="https://www.linkedin.com/in/arthur-mansur-05a617305/">
 <img src="https://img.shields.io/badge/LinkedIn-Arthur%20Mansur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Arthur Mansur">
 </a>
+
 &nbsp;&nbsp;
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=barrosarthur312@gmail.com&su=Contato%20pelo%20GitHub">
 <img src="https://img.shields.io/badge/Email-Escrever-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail para Arthur Mansur">
 </a>
+
 &nbsp;&nbsp;
 
 <a href="https://wa.me/5511948334209?text=Ol%C3%A1%2C%20Arthur%21%20Encontrei%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar%20com%20voc%C3%AA.">
 <img src="https://img.shields.io/badge/WhatsApp-Falar%20comigo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Falar com Arthur Mansur pelo WhatsApp">
 </a>
+
 </p>
 
 <p align="center">
@@ -72,7 +76,6 @@ Banco de dados de uma livraria desenvolvido em PostgreSQL, com controle de clien
 
 </td>
 
-
 <td width="50%" align="center" valign="top">
 
 <br>
@@ -89,12 +92,12 @@ Banco de dados de uma livraria desenvolvido em PostgreSQL, com controle de clien
 
 <br><br>
 
-Aplicação estruturada em POO que simula o fluxo completo de um e-commerce de moda, desde a seleção de itens até a geração automatizada de notas fiscais.
+Aplicação desenvolvida em Java que simula o fluxo de compra de uma loja de roupas, utilizando lógica de programação, estruturas condicionais, repetição e arrays.
 
 <br><br>
 
 <code>Java</code>
-<code>POO</code>
+<code>Lógica de Programação</code>
 <code>Arrays</code>
 
 <br><br>
@@ -108,7 +111,6 @@ Aplicação estruturada em POO que simula o fluxo completo de um e-commerce de m
 </td>
 
 </tr>
-
 
 <tr>
 
@@ -128,13 +130,13 @@ Aplicação estruturada em POO que simula o fluxo completo de um e-commerce de m
 
 <br><br>
 
-Assistente interativo desenvolvido no FabLab, integrando Python, Raspberry Pi e uma API de inteligência artificial.
+Assistente interativo desenvolvido durante minha experiência no FabLab, integrando Python, Raspberry Pi, inteligência artificial e componentes eletrônicos.
 
 <br><br>
 
 <code>Python</code>
 <code>Raspberry Pi</code>
-<code>OpenAI API</code>
+<code>Inteligência Artificial</code>
 
 <br><br>
 
@@ -145,7 +147,6 @@ Assistente interativo desenvolvido no FabLab, integrando Python, Raspberry Pi e 
 <br><br>
 
 </td>
-
 
 <td width="50%" align="center" valign="top">
 
@@ -190,14 +191,7 @@ Aplicativo para cadastro e gerenciamento de contatos, com persistência de dados
 ## 🎯 Foco atual de estudos
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-Em%20aprofundamento-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-Em%20aprofundamento-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-Estudando-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/AWS-Estudando-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
-
-<p align="center">
-Banco de Dados • Administração PostgreSQL • Linux • Cloud AWS
+  <img src="https://skillicons.dev/icons?i=postgres,linux,aws" />
 </p>
 
 ---
@@ -206,10 +200,6 @@ Banco de Dados • Administração PostgreSQL • Linux • Cloud AWS
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,git,github,java,python,c,html,css" />
-</p>
-
-<p align="center">
-<strong>SQL • PostgreSQL • Git • GitHub • Java • Python • C • HTML • CSS</strong>
 </p>
 
 ---
@@ -229,7 +219,7 @@ Banco de Dados • Administração PostgreSQL • Linux • Cloud AWS
 </tr>
 
 <tr>
-<td>Técnico em Informática para a Internet</td>
+<td>Técnico em Informática para Internet</td>
 <td>Instituto Federal de São Paulo — concluído em 2025</td>
 </tr>
 
@@ -240,7 +230,7 @@ Banco de Dados • Administração PostgreSQL • Linux • Cloud AWS
 
 <tr>
 <td>Estagiário em Fabricação Digital</td>
-<td>FabLab — desenvolvimento do Assistente Baymax com Python, Raspberry Pi e integração com a API da OpenAI</td>
+<td>FabLab — desenvolvimento de soluções com Python, Raspberry Pi, Inteligência Artificial, eletrônica e IoT</td>
 </tr>
 
 </table>
