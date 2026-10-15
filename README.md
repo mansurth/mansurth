@@ -217,8 +217,3 @@ Aplicativo para cadastro e gerenciamento de contatos, com persistência de dados
 
 </table>
 
----
-
-<p align="center">
-  <strong>Construindo uma base sólida em Banco de Dados, Cloud e tecnologia.</strong>
-</p>
